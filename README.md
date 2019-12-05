@@ -3,6 +3,9 @@
  The story is simple: You and your rivals are getting ready for a battle on the grid. Unfortunately, a glitch in the system causes you and your fellow competitors to split into two parts. To accommodate for this, the system makes another form of battle, not a battle royale to see who is the one who can make it out without getting derezzed, but instead, a race to see the fastest one to make themselves whole by combining with their clone. Be careful though! Your movements are your clone's movements. Should you lose track of your clone, you'll be locked out of becoming whole again, and the system will mark you as a defective CPU after the battle.
  
 #Screenshots
+	
 	![#1](/images/1.png)
+	
 	![#2](/images/2.png)
+	
 	![#3](/images/3.png)
