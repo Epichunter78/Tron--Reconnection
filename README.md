@@ -18,6 +18,6 @@
  CodeNMore's Java Game Making Tutorial: https://www.youtube.com/playlist?list=PLah6faXAgguMnTBs3JnEJY0shAc18XYQZ
  
 <h1>Screenshots<h1>
-	![#1](/images/1.png)
-	![#2](/images/2.png)
-	![#3](/images/3.png)
+	1.![#1](/images/1.png)
+	2.![#2](/images/2.png)
+	3.![#3](/images/3.png)
