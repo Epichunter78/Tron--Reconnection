@@ -9,15 +9,15 @@
  Your movements are your clone's movements. 
  Should you lose track of your clone, you'll be locked out of becoming whole again,
  and the system will mark you as a defective CPU after the battle.
- 
- 
- Assets were all done by me through Piskel
- PiskelApp: https://www.piskelapp.com/
- 
- Code used to build the game comes from CodeNMore on YouTube. Go check his tutorial series out!
- CodeNMore's Java Game Making Tutorial: https://www.youtube.com/playlist?list=PLah6faXAgguMnTBs3JnEJY0shAc18XYQZ
- 
-#Screenshots
+
+### Screenshots
 ![#1](/images/1.png)
 ![#2](/images/2.png)
 ![#3](/images/3.png)
+
+## Credits
+1. Assets were all done by me through Piskel
+   * PiskelApp: https://www.piskelapp.com/
+ 
+2. Code used to build the game comes from CodeNMore on YouTube. Go check his tutorial series out!
+   * CodeNMore's Java Game Making Tutorial: https://www.youtube.com/playlist?list=PLah6faXAgguMnTBs3JnEJY0shAc18XYQZ
