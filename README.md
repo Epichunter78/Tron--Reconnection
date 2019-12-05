@@ -17,7 +17,7 @@
  Code used to build the game comes from CodeNMore on YouTube. Go check his tutorial series out!
  CodeNMore's Java Game Making Tutorial: https://www.youtube.com/playlist?list=PLah6faXAgguMnTBs3JnEJY0shAc18XYQZ
  
-<h1>Screenshots<h1>
+#Screenshots
 ![#1](/images/1.png)
 ![#2](/images/2.png)
 ![#3](/images/3.png)
