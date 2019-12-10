@@ -10,12 +10,15 @@
  Should you lose track of your clone, you'll be locked out of becoming whole again,
  and the system will mark you as a defective CPU after the battle.
 
+## Setup
+If you are using Eclipse, make sure to add the asset and data folders into the classpath through the project's properties in "Java Build Path" by selecting the classpath and selecting "Add Class Folder". Otherwise, the game will not compile.
+
 ### Screenshots
 ![#1](/images/1.png)
 ![#2](/images/2.png)
 ![#3](/images/3.png)
 
-## Credits
+#### Credits
 1. Assets were all done by me through Piskel
    * PiskelApp: https://www.piskelapp.com/
  
